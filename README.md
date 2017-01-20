@@ -1,2 +1,2 @@
 # TinngMusic.com
-The first web design by mysekf with my own logo.
+The first web design by myself with my own logo.
